@@ -50,7 +50,7 @@
     <scm>
         <connection>scm:svn:http://svn.apache.org/repos/asf/incubator/wink/tags/wink-1.0-incubating</connection>
         <developerConnection>scm:svn:https://svn.apache.org/repos/asf/incubator/wink/tags/wink-1.0-incubating</developerConnection>
-        <url>http://svn.apache.org/viewvc/incubator/wink/tags/wink-1.0-incubating</url>
+        <url>scm:svn:https://svn.apache.org/repos/asf/incubator/wink/tags/wink-1.0-incubating</url>
     </scm>
     <build>
         <plugins>
